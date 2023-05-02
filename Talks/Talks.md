@@ -1,2 +1,2 @@
 ### Talks
-[563 Presentation](/Talks/230502-HJR_Presentation/index.html)
+[563 presentation on alignment algorithms](/Talks/230502-HJR_Presentation/index.html)
