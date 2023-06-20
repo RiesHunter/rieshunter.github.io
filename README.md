@@ -8,4 +8,4 @@ Currently, I am a Ph.D. student in [Dr. Thomas Friedrich's laboratory](https://f
 [Code](https://rieshunter.github.io/Code/Code.html)
 
 
-Last updated 60/20/23
+Last updated 20 June 2023
