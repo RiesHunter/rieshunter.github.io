@@ -1,7 +1,6 @@
-### About
-My work revolves around the evolution and pathogenesis of RNA viruses. I accomplish this by leveraging next-generation sequencing technologies and non-human primate models. 
+My name is Hunter Ries (pronounced like "fleece"), and I am a Cellular and Molecular Pathology Ph.D. student in [Dr. Thomas Friedrich's laboratory](https://friedrichlab.vetmed.wisc.edu/) at the University of Wisconsin–Madison.
 
-Currently, I am a Ph.D. student in [Dr. Thomas Friedrich's laboratory](https://friedrichlab.vetmed.wisc.edu/) through the Cellular and Molecular Pathology Ph.D. program at the University of Wisconsin–Madison. I have research interests in virus evolution, sequencing technologies, and public health applications of the two.
+My research revolves around the evolution and pathogenesis of RNA viruses, where I specialize in respiratory and mosquito-borne viruses. Specifically, I utilize next-generation sequencing technologies to quantify the evolutionary pressures shaping viruses during infection and transmission. Additionally, I utilize non-human primate models to assess the cross-reactive immunity and pathogenic potential of diverse flaviviruses, such as Zika virus and dengue virus. 
 
 [Talks](https://rieshunter.github.io/Talks/Talks.html)
 
