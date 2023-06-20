@@ -5,7 +5,9 @@ My name is Hunter Ries ("Ries" is pronounced like "fleece"), and I am a Ph.D. st
 My current research revolves around the evolution and pathogenesis of RNA viruses, and I specialize in respiratory and mosquito-borne viruses. I utilize next-generation sequencing technologies to quantify the pressures shaping viral evolution during infection and transmission. Additionally, I utilize non-human primate models to assess the cross-reactive immunity and pathogenic potential of diverse flaviviruses, such as Zika virus and dengue virus.
 
 [Talks](https://rieshunter.github.io/Talks/Talks.html)
+
 [Code](https://rieshunter.github.io/Code/Code.html)
+
 
 
 Last updated 20 June 2023
